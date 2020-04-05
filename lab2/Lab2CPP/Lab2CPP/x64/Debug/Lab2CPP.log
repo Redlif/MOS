@@ -1,0 +1,110 @@
+﻿  pch.cpp
+  BuddyAllocator.cpp
+d:\labs\os\lab2cpp\lab2cpp\buddyallocator.cpp(23): error C2512: LinkedList: нет подходящего конструктора по умолчанию
+d:\labs\os\lab2cpp\lab2cpp\buddyallocator.cpp(25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\labs\os\lab2cpp\lab2cpp\buddyallocator.cpp(35): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Lab2CPP.cpp
+  LinkedList.cpp
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(10): error C2653: LinkedList: не является именем класса или пространства имен
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(10): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(11): error C3861: _init: идентификатор не найден
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(12): warning C4508: LinkedList: функция должна возвращать значение; предполагается возвращаемый тип "void"
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(14): error C2510: LinkedList: выражение слева от "::" должно быть классом, структурой или объединением
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(15): error C2065: _blockSizeKb: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(16): error C2065: _head: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(17): error C2065: _tail: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(18): error C2065: _length: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(21): error C2510: LinkedList: выражение слева от "::" должно быть классом, структурой или объединением
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(22): error C2065: _head: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(22): error C2065: _tail: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(25): error C2510: LinkedList: выражение слева от "::" должно быть классом, структурой или объединением
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(26): error C2065: _blockSizeKb: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(29): error C2510: LinkedList: выражение слева от "::" должно быть классом, структурой или объединением
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(30): error C2065: _length: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(33): error C2510: LinkedList: выражение слева от "::" должно быть классом, структурой или объединением
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(34): error C2065: list_block: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(34): error C2065: iterator: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(34): error C2061: синтаксическая ошибка: идентификатор "list_block"
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(35): error C2065: iterator: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(35): error C2065: _head: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(37): error C2065: iterator: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(38): error C2065: iterator: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(39): error C2065: iterator: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(44): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(44): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(44): error C2510: LinkedList: выражение слева от "::" должно быть классом, структурой или объединением
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(44): error C2059: синтаксическая ошибка: {
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(44): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(44): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(55): error C2510: LinkedList: выражение слева от "::" должно быть классом, структурой или объединением
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(56): error C2065: newBlock: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(56): error C2061: синтаксическая ошибка: идентификатор "list_block"
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(57): error C2065: newBlock: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(58): error C2065: newBlock: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(59): error C2065: _length: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(60): error C2065: _head: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(60): error C2065: newBlock: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(61): error C2065: _tail: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(61): error C2065: newBlock: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(64): error C2065: newBlock: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(64): error C2065: _head: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(65): error C2065: _head: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(65): error C2065: newBlock: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(67): error C2065: _length: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(70): error C2510: LinkedList: выражение слева от "::" должно быть классом, структурой или объединением
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(71): error C2065: newBlock: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(71): error C2061: синтаксическая ошибка: идентификатор "list_block"
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(72): error C2065: newBlock: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(73): error C2065: newBlock: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(74): error C2065: _length: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(75): error C2065: _head: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(75): error C2065: newBlock: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(76): error C2065: _tail: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(76): error C2065: newBlock: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(79): error C2065: secondLastBlock: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(79): error C2065: _length: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(80): error C2065: secondLastBlock: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(80): error C2065: newBlock: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(81): error C2065: _tail: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(81): error C2065: newBlock: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(83): error C2065: _length: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(86): error C2510: LinkedList: выражение слева от "::" должно быть классом, структурой или объединением
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(87): error C2065: _length: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(91): error C2065: newBlock: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(91): error C2061: синтаксическая ошибка: идентификатор "list_block"
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(92): error C2065: newBlock: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(93): error C2065: beforeBlock: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(93): error C2061: синтаксическая ошибка: идентификатор "list_block"
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(94): error C2065: beforeBlock: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(95): error C2065: newBlock: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(95): error C2065: beforeBlock: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(96): error C2065: beforeBlock: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(96): error C2065: newBlock: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(97): error C2065: _length: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(101): error C2510: LinkedList: выражение слева от "::" должно быть классом, структурой или объединением
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(102): error C3861: removeBlockAt: идентификатор не найден
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(105): error C2510: LinkedList: выражение слева от "::" должно быть классом, структурой или объединением
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(106): error C2065: _length: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(106): error C3861: removeBlockAt: идентификатор не найден
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(109): error C2510: LinkedList: выражение слева от "::" должно быть классом, структурой или объединением
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(110): error C2065: _length: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(111): error C2065: removeBlock: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(111): error C2061: синтаксическая ошибка: идентификатор "list_block"
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(112): error C2065: removeBlock: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(113): error C2065: _length: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(114): error C2065: _head: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(115): error C2065: _tail: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(122): error C2065: _head: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(122): error C2065: removeBlock: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(125): error C2065: blockBefore: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(125): error C2061: синтаксическая ошибка: идентификатор "list_block"
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(126): error C2065: blockBefore: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(127): error C2065: blockBefore: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(127): error C2065: removeBlock: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(128): error C2065: _length: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(129): error C2065: _tail: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(129): error C2065: blockBefore: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(133): error C2065: removeBlock: необъявленный идентификатор
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(133): error C2541: delete: нельзя удалять объекты, не являющиеся указателями
+d:\labs\os\lab2cpp\lab2cpp\linkedlist.cpp(134): error C2065: _length: необъявленный идентификатор
+  Создание кода...
